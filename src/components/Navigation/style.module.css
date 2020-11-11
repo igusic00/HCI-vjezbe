@@ -1,6 +1,10 @@
 .navigation {
-    height: 52px;
-    display: flex;
-    align-items: center;
-    width: 660px
-  }
+  height: 52px;
+  display: flex;
+  align-items: center;
+}
+
+.combobox {
+  border: black solid 1px;
+  padding-bottom: 0;
+}
